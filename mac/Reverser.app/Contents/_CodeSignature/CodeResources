@@ -14,7 +14,7 @@
 		</data>
 		<key>Resources/app.asar</key>
 		<data>
-		vYf2+pz48CV8KtddKW1tOGd5/rI=
+		CiPWAP00ETAF7gFXVsuT3uUV2b0=
 		</data>
 		<key>Resources/electron.asar</key>
 		<data>
@@ -27,7 +27,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			XKXJl6cWceHTBJmte2e2j7TOs8c=
+			4jTb8RicbX9//fxoh/n7KHkDzuo=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Electron.framework" and certificate leaf = H"f71d1c9cab74cd0966312e49bf32d3ed890737aa"</string>
@@ -54,7 +54,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RAKpZgH/LXikkYFbUKdksmpDOY4=
+			rq7sFvMRHCNxxZNhzc7570K5NpA=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.wolph.helper" and certificate leaf = H"f71d1c9cab74cd0966312e49bf32d3ed890737aa"</string>
@@ -63,7 +63,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			PCidFHyNMd7mMDF6ZmyDIaXNrEA=
+			ciLO7gpgpjPzCbjxzx3oQRO5nbM=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and certificate leaf = H"f71d1c9cab74cd0966312e49bf32d3ed890737aa"</string>
@@ -94,11 +94,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vYf2+pz48CV8KtddKW1tOGd5/rI=
+			CiPWAP00ETAF7gFXVsuT3uUV2b0=
 			</data>
 			<key>hash2</key>
 			<data>
-			+jhXYz3MQsQfcDr4GTW+gKOTIyC1Vs0Y0IEwTbPkBew=
+			8IpBzstGaxheiKw5JZQFsStlkbzUFLPkKeGBHcCNnZM=
 			</data>
 		</dict>
 		<key>Resources/electron.asar</key>
