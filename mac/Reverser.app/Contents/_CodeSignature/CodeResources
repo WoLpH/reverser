@@ -27,7 +27,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			4jTb8RicbX9//fxoh/n7KHkDzuo=
+			NXD9InW4f1mw5YIikQUBW1RY98Q=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Electron.framework" and certificate leaf = H"f71d1c9cab74cd0966312e49bf32d3ed890737aa"</string>
@@ -63,7 +63,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ciLO7gpgpjPzCbjxzx3oQRO5nbM=
+			qovlZCengev0rHm2Seq1Es4+/q8=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and certificate leaf = H"f71d1c9cab74cd0966312e49bf32d3ed890737aa"</string>
