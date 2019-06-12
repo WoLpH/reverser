@@ -34,4 +34,5 @@ publish:
   owner: wolph
   repo: reverser
   private: false
+  releaseType: release
 electronVersion: 4.1.3

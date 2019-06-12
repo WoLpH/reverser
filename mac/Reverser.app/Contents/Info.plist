@@ -19,9 +19,9 @@
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
-    <string>0.1.0</string>
+    <string>0.2.0</string>
     <key>CFBundleVersion</key>
-    <string>0.1.0</string>
+    <string>0.2.0</string>
     <key>DTCompiler</key>
     <string>com.apple.compilers.llvm.clang.1_0</string>
     <key>DTSDKBuild</key>
@@ -83,6 +83,6 @@
       </dict>
     </dict>
     <key>AsarIntegrity</key>
-    <string>{"checksums":{"app.asar":"XuQJjbE+G22JRJ7EzN0yedAlBxLpa4vHJsV0lZRluBp+YZzA4rNbZwo25p6XqkuaDwoTJGe9tX1aq/D2DQzG6A==","electron.asar":"jyaHsx2KUU+U3+FxES6pWw2pWzPcMGX9uQwkNZPHEl4RLd6TDPA2xnTrwBnuaUJybJBL00X7XuAFkdEOIcuv7Q=="}}</string>
+    <string>{"checksums":{"app.asar":"caRm3LUeu80ehjH3FG4yMVill1Rio96hJklQONUYLwNVthPJjRxH+2yUa/6wQm1LMSB/V3W1TOCF9phLdXHqhQ==","electron.asar":"jyaHsx2KUU+U3+FxES6pWw2pWzPcMGX9uQwkNZPHEl4RLd6TDPA2xnTrwBnuaUJybJBL00X7XuAFkdEOIcuv7Q=="}}</string>
   </dict>
 </plist>
