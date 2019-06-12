@@ -1,5 +1,5 @@
-owner: electron-react-boilerplate
-repo: electron-react-boilerplate
+owner: wolph
+repo: reverser
 provider: github
 private: false
 updaterCacheDirName: electron-react-boilerplate-updater

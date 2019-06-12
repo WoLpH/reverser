@@ -1,12 +1,12 @@
 version: 0.17.1
 files:
   - url: Reverser-0.17.1-mac.zip
-    sha512: 0FrInCXosT/ZWhXK7G5Jysg1FfqFMzIkIThYJQG56OK5/ASyLfv1jlYjKXgHExOkouvOgEYq3o7Li4ZAeN9Rvg==
-    size: 70786574
-    blockMapSize: 74857
+    sha512: HSerVpgbMYfv73feKiscI1mzyNC+ZyBcTBWLq4FTewYiD/V8m+7XpjpAPB/TQppMSCEV8A1Q4i2QhXDv8558YQ==
+    size: 70842908
+    blockMapSize: 74902
   - url: Reverser-0.17.1.dmg
-    sha512: bqkXyVbJXu9/lAGXcwGzF26vt/3YcExFhoehfehr5uTXeYtDDMh4YDkvU69227X6QPWgNB+7hmGYgUodl7IsDA==
-    size: 73774429
+    sha512: 71s8aXQIJ3qDNKbV+z7O4OqwIWztbEh5Q4KTzN6O0nuR+lBhZUdqPJgqjAJKmsKy/b5E5NtBvs5K01pxz/PkrA==
+    size: 73842540
 path: Reverser-0.17.1-mac.zip
-sha512: 0FrInCXosT/ZWhXK7G5Jysg1FfqFMzIkIThYJQG56OK5/ASyLfv1jlYjKXgHExOkouvOgEYq3o7Li4ZAeN9Rvg==
-releaseDate: '2019-06-11T22:52:08.432Z'
+sha512: HSerVpgbMYfv73feKiscI1mzyNC+ZyBcTBWLq4FTewYiD/V8m+7XpjpAPB/TQppMSCEV8A1Q4i2QhXDv8558YQ==
+releaseDate: '2019-06-12T00:40:17.890Z'
