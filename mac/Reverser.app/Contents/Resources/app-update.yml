@@ -1,6 +1,0 @@
-owner: wolph
-repo: reverser
-provider: github
-private: false
-releaseType: release
-updaterCacheDirName: electron-react-boilerplate-updater

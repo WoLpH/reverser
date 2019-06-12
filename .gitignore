@@ -1,0 +1,6 @@
+*.blockmap
+*.dmg
+*.yaml
+*.yml
+*.zip
+mac/
